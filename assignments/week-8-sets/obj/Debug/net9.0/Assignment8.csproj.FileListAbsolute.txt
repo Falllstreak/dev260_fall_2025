@@ -1,0 +1,15 @@
+C:\Users\23ano\dev260_fall_2025\assignments\week-8-sets\bin\Debug\net9.0\Assignment8.exe
+C:\Users\23ano\dev260_fall_2025\assignments\week-8-sets\bin\Debug\net9.0\Assignment8.deps.json
+C:\Users\23ano\dev260_fall_2025\assignments\week-8-sets\bin\Debug\net9.0\Assignment8.runtimeconfig.json
+C:\Users\23ano\dev260_fall_2025\assignments\week-8-sets\bin\Debug\net9.0\Assignment8.dll
+C:\Users\23ano\dev260_fall_2025\assignments\week-8-sets\bin\Debug\net9.0\Assignment8.pdb
+C:\Users\23ano\dev260_fall_2025\assignments\week-8-sets\obj\Debug\net9.0\Assignment8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\23ano\dev260_fall_2025\assignments\week-8-sets\obj\Debug\net9.0\Assignment8.AssemblyInfoInputs.cache
+C:\Users\23ano\dev260_fall_2025\assignments\week-8-sets\obj\Debug\net9.0\Assignment8.AssemblyInfo.cs
+C:\Users\23ano\dev260_fall_2025\assignments\week-8-sets\obj\Debug\net9.0\Assignment8.csproj.CoreCompileInputs.cache
+C:\Users\23ano\dev260_fall_2025\assignments\week-8-sets\obj\Debug\net9.0\Assignment8.sourcelink.json
+C:\Users\23ano\dev260_fall_2025\assignments\week-8-sets\obj\Debug\net9.0\Assignment8.dll
+C:\Users\23ano\dev260_fall_2025\assignments\week-8-sets\obj\Debug\net9.0\refint\Assignment8.dll
+C:\Users\23ano\dev260_fall_2025\assignments\week-8-sets\obj\Debug\net9.0\Assignment8.pdb
+C:\Users\23ano\dev260_fall_2025\assignments\week-8-sets\obj\Debug\net9.0\Assignment8.genruntimeconfig.cache
+C:\Users\23ano\dev260_fall_2025\assignments\week-8-sets\obj\Debug\net9.0\ref\Assignment8.dll
