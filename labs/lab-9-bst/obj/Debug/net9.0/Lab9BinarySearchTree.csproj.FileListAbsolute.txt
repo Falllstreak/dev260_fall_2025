@@ -1,0 +1,15 @@
+C:\Users\23ano\dev260_fall_2025\labs\lab-9-bst\bin\Debug\net9.0\BinarySearchTreeLab.exe
+C:\Users\23ano\dev260_fall_2025\labs\lab-9-bst\bin\Debug\net9.0\BinarySearchTreeLab.deps.json
+C:\Users\23ano\dev260_fall_2025\labs\lab-9-bst\bin\Debug\net9.0\BinarySearchTreeLab.runtimeconfig.json
+C:\Users\23ano\dev260_fall_2025\labs\lab-9-bst\bin\Debug\net9.0\BinarySearchTreeLab.dll
+C:\Users\23ano\dev260_fall_2025\labs\lab-9-bst\bin\Debug\net9.0\BinarySearchTreeLab.pdb
+C:\Users\23ano\dev260_fall_2025\labs\lab-9-bst\obj\Debug\net9.0\Lab9BinarySearchTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\23ano\dev260_fall_2025\labs\lab-9-bst\obj\Debug\net9.0\Lab9BinarySearchTree.AssemblyInfoInputs.cache
+C:\Users\23ano\dev260_fall_2025\labs\lab-9-bst\obj\Debug\net9.0\Lab9BinarySearchTree.AssemblyInfo.cs
+C:\Users\23ano\dev260_fall_2025\labs\lab-9-bst\obj\Debug\net9.0\Lab9BinarySearchTree.csproj.CoreCompileInputs.cache
+C:\Users\23ano\dev260_fall_2025\labs\lab-9-bst\obj\Debug\net9.0\Lab9BinarySearchTree.sourcelink.json
+C:\Users\23ano\dev260_fall_2025\labs\lab-9-bst\obj\Debug\net9.0\BinarySearchTreeLab.dll
+C:\Users\23ano\dev260_fall_2025\labs\lab-9-bst\obj\Debug\net9.0\refint\BinarySearchTreeLab.dll
+C:\Users\23ano\dev260_fall_2025\labs\lab-9-bst\obj\Debug\net9.0\BinarySearchTreeLab.pdb
+C:\Users\23ano\dev260_fall_2025\labs\lab-9-bst\obj\Debug\net9.0\Lab9BinarySearchTree.genruntimeconfig.cache
+C:\Users\23ano\dev260_fall_2025\labs\lab-9-bst\obj\Debug\net9.0\ref\BinarySearchTreeLab.dll
