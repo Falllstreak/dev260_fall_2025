@@ -1,0 +1,15 @@
+C:\Users\23ano\dev260_fall_2025\assignments\week-9-bst\bin\Debug\net9.0\FileSystemNavigator.exe
+C:\Users\23ano\dev260_fall_2025\assignments\week-9-bst\bin\Debug\net9.0\FileSystemNavigator.deps.json
+C:\Users\23ano\dev260_fall_2025\assignments\week-9-bst\bin\Debug\net9.0\FileSystemNavigator.runtimeconfig.json
+C:\Users\23ano\dev260_fall_2025\assignments\week-9-bst\bin\Debug\net9.0\FileSystemNavigator.dll
+C:\Users\23ano\dev260_fall_2025\assignments\week-9-bst\bin\Debug\net9.0\FileSystemNavigator.pdb
+C:\Users\23ano\dev260_fall_2025\assignments\week-9-bst\obj\Debug\net9.0\FileSystemNavigator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\23ano\dev260_fall_2025\assignments\week-9-bst\obj\Debug\net9.0\FileSystemNavigator.AssemblyInfoInputs.cache
+C:\Users\23ano\dev260_fall_2025\assignments\week-9-bst\obj\Debug\net9.0\FileSystemNavigator.AssemblyInfo.cs
+C:\Users\23ano\dev260_fall_2025\assignments\week-9-bst\obj\Debug\net9.0\FileSystemNavigator.csproj.CoreCompileInputs.cache
+C:\Users\23ano\dev260_fall_2025\assignments\week-9-bst\obj\Debug\net9.0\FileSystemNavigator.sourcelink.json
+C:\Users\23ano\dev260_fall_2025\assignments\week-9-bst\obj\Debug\net9.0\FileSystemNavigator.dll
+C:\Users\23ano\dev260_fall_2025\assignments\week-9-bst\obj\Debug\net9.0\refint\FileSystemNavigator.dll
+C:\Users\23ano\dev260_fall_2025\assignments\week-9-bst\obj\Debug\net9.0\FileSystemNavigator.pdb
+C:\Users\23ano\dev260_fall_2025\assignments\week-9-bst\obj\Debug\net9.0\FileSystemNavigator.genruntimeconfig.cache
+C:\Users\23ano\dev260_fall_2025\assignments\week-9-bst\obj\Debug\net9.0\ref\FileSystemNavigator.dll
