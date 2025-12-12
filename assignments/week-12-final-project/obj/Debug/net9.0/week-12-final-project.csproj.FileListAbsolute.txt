@@ -1,0 +1,15 @@
+C:\Users\23ano\dev260_fall_2025\assignments\week-12-final-project\bin\Debug\net9.0\week-12-final-project.exe
+C:\Users\23ano\dev260_fall_2025\assignments\week-12-final-project\bin\Debug\net9.0\week-12-final-project.deps.json
+C:\Users\23ano\dev260_fall_2025\assignments\week-12-final-project\bin\Debug\net9.0\week-12-final-project.runtimeconfig.json
+C:\Users\23ano\dev260_fall_2025\assignments\week-12-final-project\bin\Debug\net9.0\week-12-final-project.dll
+C:\Users\23ano\dev260_fall_2025\assignments\week-12-final-project\bin\Debug\net9.0\week-12-final-project.pdb
+C:\Users\23ano\dev260_fall_2025\assignments\week-12-final-project\obj\Debug\net9.0\week-12-final-project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\23ano\dev260_fall_2025\assignments\week-12-final-project\obj\Debug\net9.0\week-12-final-project.AssemblyInfoInputs.cache
+C:\Users\23ano\dev260_fall_2025\assignments\week-12-final-project\obj\Debug\net9.0\week-12-final-project.AssemblyInfo.cs
+C:\Users\23ano\dev260_fall_2025\assignments\week-12-final-project\obj\Debug\net9.0\week-12-final-project.csproj.CoreCompileInputs.cache
+C:\Users\23ano\dev260_fall_2025\assignments\week-12-final-project\obj\Debug\net9.0\week-12-final-project.sourcelink.json
+C:\Users\23ano\dev260_fall_2025\assignments\week-12-final-project\obj\Debug\net9.0\week-12-final-project.dll
+C:\Users\23ano\dev260_fall_2025\assignments\week-12-final-project\obj\Debug\net9.0\refint\week-12-final-project.dll
+C:\Users\23ano\dev260_fall_2025\assignments\week-12-final-project\obj\Debug\net9.0\week-12-final-project.pdb
+C:\Users\23ano\dev260_fall_2025\assignments\week-12-final-project\obj\Debug\net9.0\week-12-final-project.genruntimeconfig.cache
+C:\Users\23ano\dev260_fall_2025\assignments\week-12-final-project\obj\Debug\net9.0\ref\week-12-final-project.dll
